@@ -19,7 +19,7 @@ Needs a couple of fixes, patches and tweaks for make more enjoyable, and I don't
 Go to the [releases](https://github.com/wayfinderd/the_sims_2_fixer/releases) and download the [latest release](https://github.com/wayfinderd/the_sims_2_fixer/releases) once downloaded run the executable inside choose the features do you want to install and **play**! 
 
 ### ✨ Improve this project
-If you have suggestions or problems, send them to the issues section of this GIT, it be will appreciated by **me** and by the **new users** of this project.
+If you have suggestions or problems, send them to the [issues](https://github.com/wayfinderd/the_sims_2_fixer/issues) section of this GIT, it be will appreciated by **me** and by the **new users** of this project.
 
 
 	
