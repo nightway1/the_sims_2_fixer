@@ -63,9 +63,9 @@
 
 - Brighter Computer Screens – Brightens the screens of in-game computers so you can see what your Sims are doing: [Direct download link](https://chii.modthesims.info/getfile.php?file=1212394&v=1310082788)
 
-- AL UI Font Fix (x Clean UI x) (x Starship UI x) – Fixes tiny text and other UI bugs that happened with AL and MGS: [Direct download link](https://chii.modthesims.info/getfile.php?file=1565598&v=1448153211) `Need: [Apartment life && Mansion and Garden Stuff]`
+- AL UI Font Fix (❌ Clean UI) (❌ Starship UI) – Fixes tiny text and other UI bugs that happened with AL and MGS: [Direct download link](https://chii.modthesims.info/getfile.php?file=1565598&v=1448153211) `Need: [Apartment life && Mansion and Garden Stuff]`
 
-- Widescreen Buy Plan Outfits (x Clean UI x) (x Starship UI x) – Doubles the clothing selection area for buy outfit, plan outfits, try on outfit, and select employee uniform: [Direct download link](https://simfileshare.net/download/1160109/)
+- Widescreen Buy Plan Outfits (❌ Clean UI) (❌ Starship UI) – Doubles the clothing selection area for buy outfit, plan outfits, try on outfit, and select employee uniform: [Direct download link](https://simfileshare.net/download/1160109/)
 
   
 
@@ -97,8 +97,8 @@
 
   
 
-- Clean UI (x Starship UI x) – Modern and completely overhauled user interface for The Sims 2: [Direct download link](https://simfileshare.net/download/1618606/?dl) `Need: [ALL EXPANSION PACK]`
+- Clean UI (❌ Starship UI) – Modern and completely overhauled user interface for The Sims 2: [Direct download link](https://simfileshare.net/download/1618606/?dl) `Need: [ALL EXPANSION PACK]`
 
-- Starship UI (x Clean UI x) – Modern and completely overhauled user interface for The Sims 2: [Direct download link](https://cdn.simfileshare.net/download/2796040/?dl) `Need: [ALL EXPANSION PACK]`
+- Starship UI (❌ Clean UI) – Modern and completely overhauled user interface for The Sims 2: [Direct download link](https://cdn.simfileshare.net/download/2796040/?dl) `Need: [ALL EXPANSION PACK]`
 
 - Default Replacement Computer Screens – Replaces the in-game PC screens with much better looking ones: [Direct download link](https://cdn.simfileshare.net/download/318495/?dl)
