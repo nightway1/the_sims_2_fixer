@@ -13,8 +13,8 @@ Needs a couple of fixes, patches and tweaks for make more enjoyable, and I don't
 ### 📦 Features
  - Support for newer resolutions HD / QHD / UHD and 16:9. (So far from 800x600 🤮)
  - The Sims 2 Fast-Launcher, for those with little pacience.
- - Tons of lightweight mods for fixing & tweaking bugs, glitches, and the much feared ***corruption***. (?)
-
+ - Tons of lightweight mods for fixing & tweaking bugs, glitches, and the much feared ***corruption***. [(?)](https://github.com/wayfinderd/the_sims_2_fixer/blob/main/mod_list.md)
+ - 
 ### ❓ How to install / use
 Go to the [releases](https://github.com/wayfinderd/the_sims_2_fixer/releases) and download the [latest release](https://github.com/wayfinderd/the_sims_2_fixer/releases) once downloaded run the executable inside choose the features do you want to install and **play**! 
 
