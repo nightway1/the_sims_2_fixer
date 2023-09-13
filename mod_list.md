@@ -9,7 +9,7 @@
 
 - Select Your Cemetery - Fix corruptions of your sims if his die on a apartment, causing you to have to select which cementery it goes to: [Direct download link](https://chii.modthesims.info/getfile.php?file=867988&v=1233020505) `[Need: Apartment life]`
 
-- No Sim Loaded – Removes the “Sim Loaded” token preventing lag and fixes the Super Duper Hug Bug: [Direct download link](https://cdn.simfileshare.net/download/1660690/?dl=1)
+- No Sim Loaded – Removes the “Sim Loaded” token preventing lag and fixes the Super Duper Hug Bug: [Direct download link](https://cdn.simfileshare.net/download/1660690/?dl)
 
 - Maxis Modular Stairs Passage Fix – Enables Sims to walk under all Maxis modular stairs: [Direct download link](https://chii.modthesims.info/getfile.php?file=822820&v=1223846756)
 
