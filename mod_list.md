@@ -61,6 +61,8 @@
 
 - Walk-Through Blocks – Allows Sims to walk around and through objects. Useful for creating small lots: [Direct download link](https://chii.modthesims.info/getfile.php?file=882812&v=1235893859)
 
+- Anyone Fight Burglars - Allow all sims to fight bulgars, in base game this is horrible because you can only view meanwhile they rob your house: [Direct download link](https://chii.modthesims.info/getfile.php?file=1215254&v=1310970027)
+
 - Brighter Computer Screens – Brightens the screens of in-game computers so you can see what your Sims are doing: [Direct download link](https://chii.modthesims.info/getfile.php?file=1212394&v=1310082788)
 
 - AL UI Font Fix (❌ Clean UI) (❌ Starship UI) – Fixes tiny text and other UI bugs that happened with AL and MGS: [Direct download link](https://chii.modthesims.info/getfile.php?file=1565598&v=1448153211) `Need: [Apartment life && Mansion and Garden Stuff]`
