@@ -5,7 +5,7 @@
 
 - No Corrupt Death – Fix corruption of death memory of your sims: [Direct download link](http://www.moreawesomethanyou.com/ffs/nl/hacks/nocorruptdeath.zip)
 
-- No Unlink on Delete – Fix corruptions of your sims on delete his grave: [Direct download link](www.moreawesomethanyou.com/ffs/nl/hacks/nounlinkondelete.zip)
+- No Unlink on Delete – Fix corruptions of your sims on delete his grave: [Direct download link]([www.moreawesomethanyou.com/ffs/nl/hacks/nounlinkondelete.zip](http://www.moreawesomethanyou.com/ffs/nl/hacks/nounlinkondelete.zip))
 
 - Select Your Cemetery - Fix corruptions of your sims if his die on a apartment, causing you to have to select which cementery it goes to: [Direct download link](https://chii.modthesims.info/getfile.php?file=867988&v=1233020505) `[Need: Apartment life]`
 
