@@ -45,7 +45,7 @@
 
 - Caged Pet Fix – Fixed random bird death bug and other annoyances and bugs related to the birds and womrats: [Direct download link](https://cdn.simfileshare.net/download/1786428/?dl) `Need: [Apartment life]`
 
-- Baby Wants Fix – Fixes distinction between having or adopting a child as far as wants are concerned, for better gameplay: [Direct download link](https://simfileshare.net/download/1777428/)
+- Baby Wants Fix – Fixes distinction between having or adopting a child as far as wants are concerned, for better gameplay: [Direct download link](https://cdn.simfileshare.net/download/1777428/?dl)
 
 - Creature Fixes – Fixes a lot of issues with supernaturals: [Direct download link](http://www.moreawesomethanyou.com/ffs/al/hacks/creaturefixes.zip)
 
