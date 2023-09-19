@@ -31,7 +31,7 @@
 
 - Random Calls Fix – Fixes problems related to the random phone calls your Sims receive: [Direct download link](https://chii.modthesims.info/getfile.php?file=1790643&v=1612351086) `Need: [NightLife]`
 
-- Shadow Fix – Fixes the black boxes that appear under Sims in some games and restores correct shadows: [Direct download link](https://chii.modthesims.info/getfile.php?file=1591075&v=14513899099)
+- Shadow Fix – Fixes the black boxes that appear under Sims in some games and restores correct shadows: [Direct download link](https://chii.modthesims.info/getfile.php?file=1591074&v=1451389906)
 
 - Woohoo Count Fix – Fixes a problem with woohoo count when a Sim has woohooed with the same sim multiple times in different types of woohoo: [Direct download link](https://chii.modthesims.info/getfile.php?file=1789672&v=1533867016)
 
