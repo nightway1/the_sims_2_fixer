@@ -1,3 +1,4 @@
+
 ## Available mod list
   
 
@@ -73,9 +74,10 @@
 
 ### Tweaks:
 
-- School mods: [Direct download link](Some tweaks for better experience with schools: [Direct download link](https://chii.modthesims.info/getfile.php?file=1988167&v=1613124009) (Bring home friend) `Need: [Apartment life]`
-							[Direct download link](https://chii.modthesims.info/getfile.php?file=1873978&v=1568748085) (Private school leave early) `Need: [Apartment life]`
-[Direct download link](https://chii.modthesims.info/getfile.php?file=1878654&v=1580487072) (Private school) `Need: [Apartment life]`
+- School mods - Some tweaks for better experience with schools: 
++Bring home friend - [Direct download link](https://chii.modthesims.info/getfile.php?file=1988167&v=1613124009)  `Need: [Apartment life]`
++Private school leave early - [Direct download link](https://chii.modthesims.info/getfile.php?file=1873978&v=1568748085)  `Need: [Apartment life]`
++Private school [Direct download link](https://chii.modthesims.info/getfile.php?file=1878654&v=1580487072)  `Need: [Apartment life]`
 
   
 
