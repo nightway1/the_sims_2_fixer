@@ -73,11 +73,9 @@
   
 
 ### Tweaks:
-
-- School mods - Some tweaks for better experience with schools: 
-+Bring home friend - [Direct download link](https://chii.modthesims.info/getfile.php?file=1988167&v=1613124009)  `Need: [Apartment life]`
-+Private school leave early - [Direct download link](https://chii.modthesims.info/getfile.php?file=1873978&v=1568748085)  `Need: [Apartment life]`
-+Private school [Direct download link](https://chii.modthesims.info/getfile.php?file=1878654&v=1580487072)  `Need: [Apartment life]`
+- School mods: Bring home friend - Fixes issues with how a Sim determines which friend to bring home from school - [Direct download link](https://chii.modthesims.info/getfile.php?file=1988167&v=1613124009)  `Need: [Apartment life]`
+- School mods: Private school leave early - The students of the private school leave early - [Direct download link](https://chii.modthesims.info/getfile.php?file=1873978&v=1568748085)  `Need: [Apartment life]`
+- School mods: Private school - adjusts the deterioration of sims' motives in private school and adds a fee of 100 simoleons per student - [Direct download link](https://chii.modthesims.info/getfile.php?file=1878654&v=1580487072)  `Need: [Apartment life]`
 
   
 
