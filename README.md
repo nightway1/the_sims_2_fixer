@@ -1,6 +1,7 @@
 
 # The Sims 2 Fixer
-
+(Currently in development)
+ 
 ![the_sims_2_fixer_isologo](https://github.com/wayfinderd/the_sims_2_fixer/assets/98564343/cfe4220c-9d84-4df0-96ac-69045c5355e7)
 
 🛠 Fixes, mods, tweaks for improve the experience on modern hardware packed on a automatic installer.
